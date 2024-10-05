@@ -1,0 +1,136 @@
+.container{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: xx-large;
+    background-image: url("images/gradient.gif") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+.word{
+    float: left;
+    font-size: xx-large;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+img{margin-top: 50px;}
+
+button{
+       padding: 10px ;
+       padding-left: 40px;
+       padding-right: 40px;
+}
+b{
+    font-size: x-large;
+}
+.container1{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    height: 50vh;
+}
+#i,#is,#iss{
+    background-color:rgb(238, 237, 237);
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.div1,.div2,.div3{
+    float: left;
+}
+.start2{
+    background-color: rgb(238, 237, 237);
+
+}
+.container2{
+    height: 120vh;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+
+}
+.para{
+    text-align: center;
+    font-size: x-large;
+
+}
+.dogimg{
+    border-radius: 50%;
+    padding-top: 0;
+   
+}
+.photo{
+    text-align: center;
+    font-size: x-large;
+    padding-bottom: 40px;
+}
+.brand{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    padding-bottom: 150px;
+}
+.container1 > h1{
+    font-size:xx-large;
+}
+.price{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.plan{
+    text-align: center;
+    padding-bottom: 40px;
+    border: black;
+    font-size: x-large;
+}
+.chihuahua{
+    text-align: center;
+    border: black solid 1px;
+    border-radius: 20px;
+    padding: 40px;
+    
+
+}
+.chihuahua > .header{
+
+    font-size: x-large;
+    font-weight: 400px;
+}
+.mastiffbutton{
+    background-color: black;
+    color: aliceblue;
+}
+.container5{
+    
+    background-image: url("images/gradient.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    justify-content: right;
+
+}
+.start4{
+    padding-top: 50px;
+}
+
+
+ .section{
+    display: flex;
+    padding-left: 600px;
+    font-size: xx-large;
+    gap: 80px;
+    
+    
+ }
+ .footer{
+    padding: 40px;
+ }
